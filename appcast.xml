@@ -2,6 +2,7 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <!-- A release testing minimumSystemVersion -->
+     <title>Debt Now App - Appcast</title>
       <item>
             <title>Version 1.15.0</title>
             <description>Minor updates and improvements.</description>
